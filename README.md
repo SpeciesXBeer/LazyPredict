@@ -1,4 +1,5 @@
 # LazyPredict
-Utilizing Lazy Predict to Score a large amount of models. Lazy is not always bad! Feel free to combo this up with other AutoML models on training data.
+This is one of the awesome evaluation tools out there for ML, which utilizes the LazyPredict library for model evaluation and scoring.
+You will recieve R Sq, MSE, and Adjusted R Sq scores for all models.
 
 Make sure to scale, remove labels, and train/test split.
